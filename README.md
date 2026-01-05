@@ -4,9 +4,9 @@ Matrikelnummern:
 
 730182  -   Nils Tiebor
 
-XXXXXX  -   Dennis Loeck
+770623  -   Dennis Loeck
 
-XXXXXX  -   Marc Joswig
+770840  -   Marc Joswig
 
 
 
