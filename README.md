@@ -1,2 +1,7 @@
 # ProjektDiSi25
-Abgabe Disi2025
+
+Matrikelnummern:
+
+730182  -   Nils Tiebor
+        -   Dennis Loeck
+        -   Marc Joswig
