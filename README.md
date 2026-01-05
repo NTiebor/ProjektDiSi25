@@ -7,3 +7,8 @@ Matrikelnummern:
 XXXXXX  -   Dennis Loeck
 
 XXXXXX  -   Marc Joswig
+
+
+
+# Requirements installieren
+pip install -r requirements.txt
